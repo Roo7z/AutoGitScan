@@ -45,7 +45,7 @@ go install github.com/tomnomnom/anew@latest<br>
 
 
 ## Penggunaan
-./giteksposure.sh <domain>
+./giteksposure.sh example.com
 
 
 ## Kontribusi
