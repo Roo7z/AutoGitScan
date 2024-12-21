@@ -30,17 +30,17 @@ cd AutoGitScan
 ```
 
 ## Menginstal dependensi
-# Install curl dan jq di sistem Debian/Ubuntu
+-> Install curl dan jq di sistem Debian/Ubuntu
 sudo apt update
 sudo apt install curl jq
 
-# Install assetfinder
+-> Install assetfinder
 go install github.com/tomnomnom/assetfinder@latest
 
-# Install httpx
+-> Install httpx
 go install github.com/projectdiscovery/httpx/cmd/httpx@latest
 
-# Install anew
+-> Install anew
 go install github.com/tomnomnom/anew@latest
 
 
