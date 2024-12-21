@@ -30,18 +30,18 @@ cd AutoGitScan
 ```
 
 ## Menginstal dependensi
--> Install curl dan jq di sistem Debian/Ubuntu.
-sudo apt update
-sudo apt install curl jq
+-> Install curl dan jq di sistem Debian/Ubuntu<br>
+sudo apt update<br>
+sudo apt install curl jq<br>
 
--> Install assetfinder.
-go install github.com/tomnomnom/assetfinder@latest
+-> Install assetfinder.<br>
+go install github.com/tomnomnom/assetfinder@latest<br>
 
--> Install httpx.
-go install github.com/projectdiscovery/httpx/cmd/httpx@latest
+-> Install httpx.<br>
+go install github.com/projectdiscovery/httpx/cmd/httpx@latest<br>
 
--> Install anew.
-go install github.com/tomnomnom/anew@latest
+-> Install anew.<br>
+go install github.com/tomnomnom/anew@latest<br>
 
 
 ## Penggunaan
